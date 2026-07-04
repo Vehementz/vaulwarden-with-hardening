@@ -1,5 +1,8 @@
 # ASD-0224-P1-G1-Vaultwarden
 ASD SESSION 2024 02, projet 1, installation automatisée vaultwarden
+Initially done in Gitlab before being moved to Github as it's here that are my main projects as portfolio.
+
+Initially developed on Gitlab with 4 peoples including myself, this project have been moved to Github, which hosts my main portfolio work. 
 
 ## What is Vaultwarden ? 
 
